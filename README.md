@@ -1,2 +1,2 @@
 # Tetris-Python
-Implementation of Classic Tetris in a Python script, utilising Tk GUI toolkit; packaged with AI Tetris autoplayer
+Python script implementing Classic Tetris, utilising Tk GUI toolkit; packaged with AI Tetris autoplayer
